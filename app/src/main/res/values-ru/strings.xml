@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Результаты матчей</string>
+    <string name="match_title">Матч</string>
+    <string name="team_one_title">Команда 1</string>
+    <string name="team_two_title">Команда 2</string>
+    <string name="score_title">Счет</string>
+    <string name="date_title">Дата</string>
+</resources>

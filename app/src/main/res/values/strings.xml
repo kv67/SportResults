@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Match Results</string>
+    <string name="match_title">Match</string>
+    <string name="team_one_title">Team 1</string>
+    <string name="score_title">Score</string>
+    <string name="team_two_title">Team 2</string>
+    <string name="date_title">Date</string>
+</resources>
